@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+phonenumbers-071.txt filter=lfs diff=lfs merge=lfs -text
